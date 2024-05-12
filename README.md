@@ -3,9 +3,11 @@
 📸 Photography
 💻 Coding
 🎮 Gaming (Usually Minecraft or sometimes CS2)
+
 > 📫 How to reach me
 Feel free to friend me on Discord or email me!
 Discord: itswinux | ItsWinux@outlook.com
+
 > 😄 Pronouns: He/Him
 <!---
 - ⚡ Fun fact: ...
