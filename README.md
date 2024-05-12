@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Winux
 > 👀 I’m interested in
-📸 Photography
-💻 Coding
-🎮 Gaming (Usually Minecraft or sometimes CS2)
+
+- 📸 Photography
+- 💻 Coding
+- 🎮 Gaming (Usually Minecraft or sometimes CS2)
 
 > 📫 How to reach me
 Feel free to friend me on Discord or email me!
