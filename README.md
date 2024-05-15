@@ -1,20 +1,25 @@
-# 👋 Hi, I’m Winux
-> 👀 I’m interested in
+<h1 align = 'left'> 
+  <br>
+  👋 Hi, I’m Winux
+  <br>
+</h1>
 
-- 📸 Photography
-- 💻 Coding
-- 🎮 Gaming (Usually Minecraft or sometimes CS2)
+# 👀 I’m interested in
 
-> 📫 How to reach me
+> 📸 Photography
+> 💻 Coding
+> 🎮 Gaming (Usually Minecraft or sometimes CS2)
+
+# 📫 How to reach me
 
 Feel free to DM me on Discord or email me!
-ItsWinux@outlook.com (Expect a slower response,
-I don't check my mailbox too frequently lol)
+> ItsWinux@outlook.com (Expect a slower response,
+> I don't check my mailbox too frequently lol)
 
-Discord Servers: [Software Hub] | [Café] ☕
-* Contact me on Discord! My DMs are usually open
+> Discord Servers: [Software Hub] | [Café] ☕
+> Contact me on Discord! My DMs are usually open
 
-> 😄 Pronouns: He/Him
+# 😄 Pronouns: He/Him
 <!---
 - ⚡ Fun fact: ...
 --->
