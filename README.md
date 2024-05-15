@@ -1,13 +1,13 @@
-## 👋 Hello there, I’m Winux
+## 👋 **Hello there, I’m Winux**
 *Thanks for checking out my GitHub page!*
 
-**👀 I’m interested in**
+# 👀 I’m interested in
 
 * 📸 *Photography*
 * 💻 *Coding*
 * 🎮 *Gaming (Usually Minecraft or sometimes CS2)*
 
-**📫 How to reach me**
+# 📫 How to reach me
 
 Feel free to DM me on Discord or email me!
 > ItsWinux@outlook.com (Expect a slower response,
@@ -16,21 +16,21 @@ Feel free to DM me on Discord or email me!
 > Discord Servers: [Software Hub] | [Café] ☕ |
 *Contact me on Discord! My DMs are usually open*
 
-**📚 I can code in**
+# 📚 I can code in
 - ⚙ Batch
 - ☄ PowerShell (still a beginner)
 - 🔌 JSON (for making MCBE add-ons/packs) (still a beginner)
 - 📜 VBScript (still a beginner)
 - 🐍 Python (still learning)
 
-**💽 Projects**
+# 💽 Projects
 - WinuxTools *(An optimization toolbox for Windows)*
 > *Planning to release v1.1.*
 - OpenAV *(An open-source, PowerShell-based AV)*
 - ShellAddons *(Useful addons for Windows power users)*
 > *Haven't done any work, it's still an idea.*
 
-**😄 Pronouns: He/Him**
+# **😄 Pronouns: He/Him**
 <!---
 - ⚡ Fun fact: ...
 --->
