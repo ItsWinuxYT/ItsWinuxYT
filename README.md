@@ -7,8 +7,12 @@
 
 > 📫 How to reach me
 
-Feel free to friend me on Discord or email me!
-Discord: itswinux | ItsWinux@outlook.com
+Feel free to DM me on Discord or email me!
+ItsWinux@outlook.com (Expect a slower response,
+I don't check my mailbox too frequently lol)
+
+Discord Servers: [Software Hub] | [Café] ☕
+* Contact me on Discord! My DMs are usually open
 
 > 😄 Pronouns: He/Him
 <!---
@@ -18,3 +22,5 @@ Discord: itswinux | ItsWinux@outlook.com
 ItsWinuxYT/ItsWinuxYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Café]: https://discord.gg/rPMwcJ9JpY
+[Software Hub]: https://discord.gg/GGnfFEyhtQ
