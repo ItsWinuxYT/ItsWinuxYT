@@ -16,6 +16,20 @@ Feel free to DM me on Discord or email me!
 > Discord Servers: [Software Hub] | [Café] ☕ |
 *Contact me on Discord! My DMs are usually open*
 
+**📚 I can code in**
+- ⚙ Batch
+- ☄ PowerShell (still a beginner)
+- 🔌 JSON (for making MCBE add-ons/packs) (still a beginner)
+- 📜 VBScript (still a beginner)
+- 🐍 Python (still learning)
+
+**💽 Projects**
+- WinuxTools *(An optimization toolbox for Windows)*
+> *Planning to release v1.1.*
+- OpenAV *(An open-source, PowerShell-based AV)*
+- ShellAddons *(Useful addons for Windows power users)*
+> *Haven't done any work, it's still an idea.*
+
 **😄 Pronouns: He/Him**
 <!---
 - ⚡ Fun fact: ...
