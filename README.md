@@ -5,7 +5,7 @@
 
 * 📸 *Photography*
 * 💻 *Coding*
-* 🎮 *Gaming (Usually Minecraft or sometimes CS2)*
+* 🎮 *Gaming (Usually Minecraft)*
 
 # 📫 How to reach me
 
@@ -19,24 +19,13 @@ Feel free to DM me on Discord or email me!
 # 📚 I can code in
 - ⚙ Batch
 - ☄ PowerShell (still a beginner)
-- 🔌 JSON (for making MCBE add-ons/packs) (still a beginner)
-- 📜 VBScript (still a beginner)
 - 🐍 Python (still learning)
 
 # 💽 Projects
-- WinuxTools *(An optimization toolbox for Windows)*
-> *Planning to release v1.1.*
-- OpenAV *(An open-source, PowerShell-based AV)*
+- HashGeek *(A simple utility for verifying file hashes)*
 - ShellAddons *(Useful addons for Windows power users)*
 > *Haven't done any work, it's still an idea.*
 
 # **😄 Pronouns: He/Him**
-<!---
-- ⚡ Fun fact: ...
---->
-<!---
-ItsWinuxYT/ItsWinuxYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [Café]: https://discord.gg/rPMwcJ9JpY
 [Software Hub]: https://discord.gg/GGnfFEyhtQ
