@@ -18,13 +18,14 @@ Feel free to DM me on Discord or email me!
 
 # 📚 I can code in
 - ⚙ Batch
-- ☄ PowerShell (still a beginner)
+- 🔑 PowerShell (still a beginner)
 - 🐍 Python (still learning)
+- 🌠 C++ (still learning)
 
-# 💽 Projects
-- HashGeek *(A simple utility for verifying file hashes)*
+# 💽 Current projects
+- Desktops *(Create different "workspaces" for different types of files &amp; scenarios)*
+- InstaLL *(Build scripts that helps you set up softwares quickly on your machines)*
 - ShellAddons *(Useful addons for Windows power users)*
-> *Haven't done any work, it's still an idea.*
 
 # **😄 Pronouns: He/Him**
 [Café]: https://discord.gg/rPMwcJ9JpY
