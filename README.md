@@ -25,7 +25,7 @@ Feel free to DM me on Discord or email me!
 # 💽 Current projects
 - Desktops *(Create different "workspaces" for different types of files &amp; scenarios)*
 - InstaLL *(Build scripts that helps you set up softwares quickly on your machines)*
-- ShellAddons *(Useful addons for Windows power users)*
+- ServOPT *(Optimize the performance of your computer by onfiguring a few non-essential services to only run when needed)*
 
 # **😄 Pronouns: He/Him**
 [Café]: https://discord.gg/rPMwcJ9JpY
